@@ -1,4 +1,8 @@
 <?php
+/* 
+Really useful and effective way for minifying HTML without any other wordpress plugin. Just add the code to functions.php in your theme. 
+*/
+
 class WP_HTML_Compression
 {
     // Settings
